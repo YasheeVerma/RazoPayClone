@@ -1,1 +1,2 @@
 # RazoPayClone
+A fully responsive Razorpay clone built using modern web technologies to replicate the core design and features of the Razorpay payment gateway. This project includes a professional user interface, smooth animations, and essential payment gateway components such as checkout page design, payment integration UI, and merchant dashboard layout. It is designed for learning purposes, showcasing front-end development skills with HTML, CSS (Tailwind), and JavaScript.
